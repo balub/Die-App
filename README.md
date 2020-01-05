@@ -1,4 +1,4 @@
-# dice_flutter
+# Dice_flutter
 
 A simple app made from Flutter, that is essentially a mobile die.
 
