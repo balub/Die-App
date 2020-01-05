@@ -1,4 +1,5 @@
 import 'dart:math';
+import 'package:toast/toast.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -28,6 +29,10 @@ class _DicePageState extends State<DicePage> {
     setState(() {
       lImage = Random().nextInt(6) + 1;
       rImage = Random().nextInt(6) + 1;
+      if (lImage == rImage) {
+        Toast.show("Lucky YOU", context,
+            duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
+      }
     });
   }
 
