@@ -1,15 +1,15 @@
 # dice_flutter
 
-A simple app made from Flutter, that is a mobile Xylophone capable of playing 7 tunes.
+A simple app made from Flutter, that is essentially a mobile die.
 
 ## Features
-    --Jam to 7 different tones :-) 
+    --Use to like a regular Die 
 
 ## Screenshots
 
-[<img src ="https://imgur.com/kmuQz4w.jpg" width=300>](https://imgur.com/kmuQz4w.jpg)
-[<img src ="https://imgur.com/iOZn1aH.jpg" width=300>](https://imgur.com/iOZn1aH.jpg)
-[<img src ="https://imgur.com/0xXg3Kz.jpg" width=300>](https://imgur.com/0xXg3Kz.jpg)
+[<img src ="https://imgur.com/kmuQz4w.jpg" width=250>](https://imgur.com/kmuQz4w.jpg)
+[<img src ="https://imgur.com/iOZn1aH.jpg" width=250>](https://imgur.com/iOZn1aH.jpg)
+[<img src ="https://imgur.com/0xXg3Kz.jpg" width=250>](https://imgur.com/0xXg3Kz.jpg)
 
 ## Made with 
 
